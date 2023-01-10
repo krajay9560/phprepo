@@ -1,1 +1,5 @@
-iamamam
+<?php
+
+phpinfo();
+
+?>
